@@ -1,5 +1,5 @@
 # Hi, I'm Jessica  
-**Data-driven marketing meets creative strategy**
+**Welcome to where data meets creative strategy**
 
 M.S. in Business Analytics | B.S. in Information Management & Technology  
 Marketing Strategist | Aspiring Project Manager | Creative Data Storyteller
