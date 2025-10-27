@@ -14,11 +14,13 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 
 **Data Analytics/Visualizations**  
 - [Interactive Shiny App](https://jessicaa.shinyapps.io/shinyfinal/) – Built in R Shiny to predict energy consumption using weather-based inputs
-- [Homelessness Data Exploration](https://sumailsyr-my.sharepoint.com/:w:/r/personal/jsaimunm_syr_edu/Documents/Homlessness_DataExploration_Project_JessicaAimunmondion.docx?d=w632ccb9c4a3c49618b6a9b150344041e&csf=1&web=1&e=Jc6ODs) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
+- [Homelessness Data Exploration](https://jessicaa.shinyapps.io/shinyfinal/](https://sumailsyr-my.sharepoint.com/:w:/r/personal/jsaimunm_syr_edu/Documents/Homlessness_DataExploration_Project_JessicaAimunmondion.docx?d=w632ccb9c4a3c49618b6a9b150344041e&csf=1&web=1&e=zD1bcd)) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
+- [DoggyDaycareDB](https://sumailsyr-my.sharepoint.com/:p:/r/personal/jsaimunm_syr_edu/Documents/Documents/Github%20JAimunmondion/DogDaycare%20SQL%20Presentation.pptx?d=wd595c05c742849cba001715567fdace4&csf=1&web=1&e=upvvQp) – A database design and prototype presentation for a doggy daycare management system, including conceptual and logical SQL models and an accompanying app wireframe illustrating key user interactions.
+  
   
 **Branding & Creative**  
 - [GlamByJD Website](https://glambyjd.com/) – Designed and developed a personal brand site that showcases my passion for hair, creativity, and visual storytelling. Implemented SMTP integration to enable automated email notifications for clients and developed skills in SEO optimization  
-- [Deloitte Consulting Apprenticeship Presentation](https://sumailsyr-my.sharepoint.com/:p:/r/personal/snresnic_syr_edu/Documents/Beyond%20Meat%20DCAP.pptx?d=w52c73974f3b14de98ffd9e7cd92254a2&csf=1&web=1&e=SR1WIU) – Created a promotional video and concept for a new product line, BeyondMeat On-the-Go, blending innovative marketing with strategic consulting insights  
+- [Deloitte Consulting Apprenticeship Presentation](https://sumailsyr-my.sharepoint.com/:p:/r/personal/snresnic_syr_edu/Documents/Beyond%20Meat%20DCAP.pptx?d=w52c73974f3b14de98ffd9e7cd92254a2&csf=1&web=1&e=SR1WIU) – Created a promotional video and concept for a new product line, BeyondMeat On-the-Go, blending innovative marketing with strategic consulting insights   
 
 ### Skills  
 **Languages:** R, SQL  
