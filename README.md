@@ -15,7 +15,7 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 **Data Analytics/Visualizations**  
 - [Interactive Shiny App](https://jessicaa.shinyapps.io/shinyfinal/) – Built in R Shiny to predict energy consumption using weather-based inputs
 - [Homelessness Data Exploration](https://jessicaa.shinyapps.io/shinyfinal/](https://sumailsyr-my.sharepoint.com/:w:/r/personal/jsaimunm_syr_edu/Documents/Homlessness_DataExploration_Project_JessicaAimunmondion.docx?d=w632ccb9c4a3c49618b6a9b150344041e&csf=1&web=1&e=zD1bcd)) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
-- [DoggyDaycareDB](https://sumailsyr-my.sharepoint.com/:p:/r/personal/jsaimunm_syr_edu/Documents/Documents/Github%20JAimunmondion/DogDaycare%20SQL%20Presentation.pptx?d=wd595c05c742849cba001715567fdace4&csf=1&web=1&e=upvvQp) – A database design and prototype presentation for a doggy daycare management system, including conceptual and logical SQL models and an accompanying app wireframe illustrating key user interactions.
+- [DoggyDaycareDB](https://sumailsyr-my.sharepoint.com/:p:/r/personal/jsaimunm_syr_edu/Documents/Documents/Github%20JAimunmondion/DogDaycareDB%20-%20JessicaAimunmondion.pptx?d=w57a31965edcc41dd94a026fe63af3915&csf=1&web=1&e=p3qeaa) – A database design and prototype presentation for a doggy daycare management system, including conceptual and logical SQL models and an accompanying app wireframe illustrating key user interactions.
   
   
 **Branding & Creative**  
