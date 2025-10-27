@@ -14,7 +14,7 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 
 **Data Analytics/Visualizations**  
 - [Interactive Shiny App](https://jessicaa.shinyapps.io/shinyfinal/) – Built in R Shiny to predict energy consumption using weather-based inputs
-- [Homelessness Data Exploration]([https://jessicaa.shinyapps.io/shinyfinal/](https://sumailsyr-my.sharepoint.com/:w:/r/personal/jsaimunm_syr_edu/Documents/Homlessness_DataExploration_Project_JessicaAimunmondion.docx?d=w632ccb9c4a3c49618b6a9b150344041e&csf=1&web=1&e=zD1bcd)) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
+- [Homelessness Data Exploration](https://jessicaa.shinyapps.io/shinyfinal/](https://sumailsyr-my.sharepoint.com/:w:/r/personal/jsaimunm_syr_edu/Documents/Homlessness_DataExploration_Project_JessicaAimunmondion.docx?d=w632ccb9c4a3c49618b6a9b150344041e&csf=1&web=1&e=zD1bcd)) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
   
 **Branding & Creative**  
 - [GlamByJD Website](https://glambyjd.com/) – Designed and developed a personal brand site that showcases my passion for hair, creativity, and visual storytelling. Implemented SMTP integration to enable automated email notifications for clients and developed skills in SEO optimization  
