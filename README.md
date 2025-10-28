@@ -1,5 +1,5 @@
 # Hi, I'm Jessica  
-**Welcome to where data meets creative strategy**
+**Here's a bit about me and some recent projects!**
 
 M.S. in Business Analytics | B.S. in Information Management & Technology  
 Marketing Strategist | Aspiring Project Manager | Creative Data Storyteller
