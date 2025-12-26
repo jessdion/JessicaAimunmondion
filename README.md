@@ -9,6 +9,7 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 ### Featured Projects 
 
 **Data Analytics/Visualizations**  
+- [Patterns of Neglect: Tracking Code Violations Across Syracuse Neighborhoods](https://drive.google.com/file/d/129-37eG0FMjQU9W9nkHpjc2-69qR77s6/view?usp=sharing) – This project analyzes housing code violations across Syracuse neighborhoods to identify spatial patterns, disparities, and the relationship between violations and vacant properties, highlighting areas of concentrated housing neglect.
 - [Interactive Shiny App](https://jessicaa.shinyapps.io/shinyfinal/) – Built in R Shiny to predict energy consumption using weather-based inputs
 - [Homelessness Data Exploration](https://drive.google.com/file/d/1O75lr1KQsmlAqa8jcQJw1GvVk184XBMm/view?usp=sharing) – R-based, data-driven visualizations exploring how homelessness and shelter occupancy shift across seasons, demographics, and regions.
 - [DoggyDaycareDB](https://docs.google.com/presentation/d/12_obc76m3m5ot6YeCap1LgOUEEWCeUed/edit?usp=sharing&ouid=111808333913152948503&rtpof=true&sd=true) – A database design and prototype presentation for a doggy daycare management system, including conceptual and logical SQL models and an accompanying app wireframe illustrating key user interactions.
@@ -32,6 +33,6 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 Deep Learning, Management Science, and Applied Data Analysis & Decision Making  
 
 ### Connect  
-[LinkedIn](https://www.linkedin.com/in/jessicaaimunmondion/) • [My Resume](https://drive.google.com/file/d/11ESkKn57QIhjbsYP85lyceapI32-pIJf/view?usp=sharing) • [Email](mailto:jsaimunm@syr.edu)
+[LinkedIn](https://www.linkedin.com/in/jessicaaimunmondion/) • [My Resume](https://drive.google.com/file/d/13uLImkHqKah2yPasKJtkLNhHiYUX_gqO/view?usp=sharing) • [Email](mailto:jsaimunm@syr.edu)
 
 
