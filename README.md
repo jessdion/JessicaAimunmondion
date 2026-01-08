@@ -33,6 +33,6 @@ I’m passionate about using data, strategy, and creative thinking to build bran
 Deep Learning, Management Science, and Applied Data Analysis & Decision Making  
 
 ### Connect  
-[LinkedIn](https://www.linkedin.com/in/jessicaaimunmondion/) • [My Resume](https://drive.google.com/file/d/13uLImkHqKah2yPasKJtkLNhHiYUX_gqO/view?usp=sharing) • [Email](mailto:jsaimunm@syr.edu)
+[LinkedIn](https://www.linkedin.com/in/jessicaaimunmondion/) • [My Resume](https://drive.google.com/file/d/1n5FRXa6uBku540vJVkBlDAhUU9ymsSw-/view?usp=sharing) • [Email](mailto:jsaimunm@syr.edu)
 
 
